@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/dotnetapp/project.lock.json
+
+/dotnetapp/bin/
+/dotnetapp/obj/
+/dotnetapp/.idea/
+/dotnetapp/.vscode/
